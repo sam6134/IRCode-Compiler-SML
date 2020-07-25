@@ -1,0 +1,14 @@
+t1:= 9
+t2:= 0
+label2
+t8 := t1<>0
+if t8 goto label3
+goto label1
+label3
+t4 := t2+t1
+t2:= t4
+t4 := t1-1
+t1:= t4
+goto label2
+label1
+write t2

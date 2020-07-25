@@ -1,0 +1,6 @@
+***** INSTRUCTIONS FOR CODE ****
+
+Pass the sample.txt file along with an empty file lets say output.txt , 
+The results if any will be written to the output file.
+
+COMMAND - "sml 2018UCS0065_a8.sml sample1.txt output.txt"

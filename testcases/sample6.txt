@@ -1,0 +1,16 @@
+t1:= 57
+label2
+t9 := t1<>0
+if t9 goto label3
+goto label1
+label3
+t6 := t1/2
+t3:= t6
+t5 := t1-t3
+t2:= t5
+t5 := t2-t3
+t2:= t5
+write t2
+t1:= t3
+goto label2
+label1

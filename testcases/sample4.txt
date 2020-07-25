@@ -1,0 +1,17 @@
+t1:= 0
+t2:= 1
+t3:= 8
+label2
+t10 := t3<>0
+if t10 goto label3
+goto label1
+label3
+t4:= t2
+t6 := t1+t2
+t2:= t6
+t1:= t4
+t6 := t3-1
+t3:= t6
+write t2
+goto label2
+label1
