@@ -15,7 +15,7 @@ touch output.txt
 ```
 COMMAND
 ```
-sml IRCode_Compiler.sml Testcases/sample1.txt output.txt
+sml IRCode_Compiler.sml testcases/sample1.txt output.txt
 ```
 ### License
 <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" width="80" />
