@@ -19,7 +19,7 @@ sml IRCode_Compiler.sml testcases/sample1.txt output.txt
 ```
 ### License
 <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" width="80" />
-Note this Mess portal is distributed under the [MIT License](http://opensource.org/licenses/MIT).
+Note this IRCode-Compiler-SML is distributed under the [MIT License](http://opensource.org/licenses/MIT).
 
 Your feedback, ideas, suggestions are most welcome!
 
